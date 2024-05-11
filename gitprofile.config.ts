@@ -40,6 +40,14 @@ const CONFIG = {
             'https://github.com/Its4Nik/BASHTime/assets/106100177/164422a6-0840-4f66-9e71-c1bcf5885ad9',
           link: 'https://github.com/Its4Nik/BASHTime',
         },
+        {
+          title: '"Kopfschmerzkollektiv"',
+          description:
+            'Some friends of mine wanted a website for their upcoming collective, so I set up a quick ghost blog and there are also entries written by me under the "tech" section.',
+          imageUrl:
+            'https://images.unsplash.com/photo-1554098415-4052459dc340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM1fHxuYXMlMjBzZXJ2ZXJ8ZW58MHx8fHwxNzEwNDA4Njk5fDA&ixlib=rb-4.0.3&q=80&w=1140',
+          link: 'https://kopfschmerzkollektiv.itsnik.de',
+        },
       ],
     },
   },
@@ -77,7 +85,7 @@ const CONFIG = {
   skills: [
     'Docker',
     'BASH',
-    'C# (learning)',   
+    'C# (learning)',
   ],
   experiences: [
     {
