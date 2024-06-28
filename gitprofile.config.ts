@@ -99,8 +99,8 @@ const CONFIG = {
   ],
   educations: [
     {
-      company: ''Gymnasium' - German Highschool',
-      degree: ''Mittlere Reife'',
+      company: 'Gymnasium - German Highschool',
+      degree: 'Mittlere Reife',
       from: 'September 2017',
       to: 'August 2023',
     },
