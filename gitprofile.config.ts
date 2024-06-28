@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'BASHTime (WIP)',
+          title: 'NGX-Error',
           description:
             'A Work-In-Progress Uptime Monitor in BASH, with alerts and notifications.',
           imageUrl:
             'https://github.com/Its4Nik/BASHTime/assets/106100177/164422a6-0840-4f66-9e71-c1bcf5885ad9',
-          link: 'https://github.com/Its4Nik/BASHTime',
+          link: 'https://github.com/Its4Nik/NGX-Error',
         },
         {
-          title: '"Kopfschmerzkollektiv"',
+          title: "Easy Outline",
           description:
-            'Some friends of mine wanted a website for their upcoming collective, so I set up a quick ghost blog and there are also entries written by me under the "tech" section.',
+            "An interactive Terminal-like installer for Outline WIKI Selfhosted",
           imageUrl:
-            'https://images.unsplash.com/photo-1554098415-4052459dc340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM1fHxuYXMlMjBzZXJ2ZXJ8ZW58MHx8fHwxNzEwNDA4Njk5fDA&ixlib=rb-4.0.3&q=80&w=1140',
-          link: 'https://kopfschmerzkollektiv.itsnik.de',
+            "https://github.com/Its4Nik/EasyOutline/blob/dev-patch/docs/Asciicinema.gif?raw=true",
+          link: "https://github.com/Its4Nik/EasyOutline",
         },
       ],
     },
@@ -121,7 +121,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'sunset',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
