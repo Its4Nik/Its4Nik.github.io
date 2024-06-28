@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/Its4Nik/NGX-Error',
         },
         {
-          title: "Easy Outline",
+          title: 'Easy Outline',
           description:
-            "An interactive Terminal-like installer for Outline WIKI Selfhosted",
+            'An interactive Terminal-like installer for Outline WIKI Selfhosted',
           imageUrl:
-            "https://github.com/Its4Nik/EasyOutline/blob/dev-patch/docs/Asciicinema.gif?raw=true",
-          link: "https://github.com/Its4Nik/EasyOutline",
+            'https://github.com/Its4Nik/EasyOutline/blob/dev-patch/docs/Asciicinema.gif?raw=true',
+          link: 'https://github.com/Its4Nik/EasyOutline',
         },
       ],
     },
@@ -99,8 +99,8 @@ const CONFIG = {
   ],
   educations: [
     {
-      company: '"Gymnasium" - German Highschool',
-      degree: '"Mittlere Reife"',
+      company: ''Gymnasium' - German Highschool',
+      degree: ''Mittlere Reife'',
       from: 'September 2017',
       to: 'August 2023',
     },
@@ -185,9 +185,9 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
+      class='text-primary' href='https://github.com/arifszn/gitprofile'
+      target='_blank'
+      rel='noreferrer'
     >GitProfile</a> and ❤️`,
 
   enablePWA: true,
